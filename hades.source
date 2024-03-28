@@ -441,5 +441,3 @@ local Section = Tab:NewSection("BYPASSING")
 Section:NewButton("Chat Admin", "Executar Script", function()
  loadstring(game:HttpGet("https://raw.githubusercontent.com/game-hax/uca/main/release/uca.min.lua"))()
 end)
-Section:NewButton("Controlar Players(Visual)🖥️", "Executar Script", function()
-loadstring(game:HttpGet('https://raw.githubus
