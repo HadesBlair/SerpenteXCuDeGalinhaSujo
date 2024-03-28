@@ -441,5 +441,5 @@ Section:NewButton("RTX hub⚡", "Executar Script", function()
  loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-pshade-V5-4-9228"))()
 end)
 local Section = Tab:NewSection("BYPASSING")
-Section:NewButton("systembroken", "Executar Script", function()
- loadstring(game:Ht
+Section:NewButton("Chat Admin", "Executar Script", function()
+ loadstring(game:Http
